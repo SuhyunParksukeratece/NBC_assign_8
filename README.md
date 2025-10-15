@@ -1,5 +1,5 @@
 # 영상 파일 주소
-  https://youtu.be/6Bxd8WqOdA0
+  https://youtu.be/LdOjnctz658
 # 프로젝트 링크
   https://drive.google.com/file/d/1HVdidUN4ToaLnKHBZVNQroZ9pkAnyzuy/view?usp=sharing
 # 프로젝트 내용
